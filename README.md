@@ -3,3 +3,5 @@
 A simple scene with a ball and collisions
 
 Click on the ball to apply a new impulse
+
+Check the <b>scene.tsx</b> file for details
