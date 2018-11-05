@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "DCLDaily"
+  },
+  "owner": "0x6a8920D18B477c3e7446cf7f82dC0A9E38BF5FcF",
+  "contact": {
+    "name": "aclcrypto",
+    "email": "kirschim@yahoo.de"
+  },
+  "scene": {
+    "parcels": [
+      "25,-120",
+      "26,-120",
+      "25,-119",
+      "26,-119"
+    ],
+    "base": "26,-119"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://rendezvous.decentraland.org"
+  },
+  "policy": {
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": "0,0,0"
+  },
+  "main": "scene.js"
+}
